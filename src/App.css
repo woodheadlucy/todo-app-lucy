@@ -1,12 +1,11 @@
-*{
+* {
   box-sizing: border-box;
 }
 
-
-.container{
-  padding: 0 1rem
+.container {
+  padding: 0 1rem;
 }
 
-.btn{
-  display: inline-block
+.btn {
+  display: inline-block;
 }
